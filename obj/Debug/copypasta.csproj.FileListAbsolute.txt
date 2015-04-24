@@ -1,0 +1,17 @@
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Debug\copypasta.dll
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Debug\copypasta.pdb
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Debug\copypasta.dll.mdb
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Debug\copypasta.copypasta.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Debug\copypasta.copypasta-Signed.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\copypasta.dll
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\copypasta.pdb
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\android\bin\copypasta.copypasta.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\layout\main.xml
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\values\strings.xml
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\R.cs.flag
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\uploadflags.txt

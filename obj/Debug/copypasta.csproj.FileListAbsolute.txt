@@ -11,7 +11,7 @@ C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\values\st
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-mdpi\icon.png
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xxxhdpi\icon.png
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\R.cs.flag
 C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\uploadflags.txt
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Debug\res\drawable-xxhdpi\copypaste.png

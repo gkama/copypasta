@@ -1,0 +1,16 @@
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Release\copypasta.dll
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Release\copypasta.pdb
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Release\copypasta.copypasta.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\bin\Release\copypasta.copypasta-Signed.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\copypasta.dll
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\copypasta.pdb
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\android\bin\copypasta.copypasta.apk
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\layout\main.xml
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\values\strings.xml
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\drawable-mdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\drawable-xxxhdpi\icon.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\res\drawable-xxhdpi\copypaste.png
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\R.cs.flag
+C:\Users\gkam4141\Documents\Projects\copypasta\copypasta\obj\Release\uploadflags.txt
